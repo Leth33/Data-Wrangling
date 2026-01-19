@@ -1,10 +1,6 @@
 # SIT220 - Data Wrangling
 
 **Course:** SIT220 - Data Wrangling  
-**Student:** Barbara Calma  
-**ID:** 224712709  
-**Email:** s224712709@deakin.edu.au  
-**Level:** Undergraduate
 
 ---
 
